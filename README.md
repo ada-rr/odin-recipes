@@ -1,3 +1,6 @@
 # odin-recipes
 <!-- write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.) -->
-A showcase of recipes for The Odin Project (TOP) HTML assignment. Project background used the chat-GPT3 inspired recipes of a possible post-apocalyptic world using available resources in the futuristic inspired world. ***note: It was an interesting and fun project to build upon giving into a future imagined.
+A showcase of recipes for The Odin Project (TOP) HTML assignment. 
+Project background used the chat-GPT3 inspired recipes of a possible post-apocalyptic world using available resources in the futuristic inspired world. 
+***note 1: It was an interesting and fun project to build upon giving into a future imagined.
+***note 2: According to chat-GPT3, "In a post-apocalyptic world, resources may be scarce, so using alternative sources of protein such as lab-grown meat, insects, and microalgae would be a sustainable way to ensure that people have access to nutritious food. Additionally, using techniques like hydroponics and vertical farming to grow fruits and vegetables could also be a way to produce food in a limited space and with limited resources. And using greywater to make gravy is a good example of recycling resources that might otherwise be wasted. The possibilities are endless, and it's always exciting to think about how we might adapt to a changing world."
