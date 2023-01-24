@@ -1,3 +1,3 @@
 # odin-recipes
 <!-- write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.) -->
-A project tryout based on TOP assignment showcasing recipes using only html.
+A showcase of recipes for The Odin Project (TOP) HTML assignment. Project background used the chat-GPT3 inspired recipes of a possible post-apocalyptic world using available resources in the futuristic inspired world. ***note: It was an interesting and fun project to build upon giving into a future imagined.
