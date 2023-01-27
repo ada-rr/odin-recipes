@@ -1,8 +1,53 @@
-div {
-    color: blueviolet;
-    background-color: black;
+* {
+    margin: 5px 20px 15px 20px;
+    padding: 5px;
+    box-sizing: border-box;
+    gap: 10px;
 }
-
-p {
-    color: fuchsia;
+.container {
+    background-color: turquoise;
+    padding: 10px 0;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    width: auto;
 }
+.item {
+    border: 5px solid pink;
+    border-style:dotted;
+    width: auto;
+    display: flex;
+    justify-content: left; 
+}
+body {
+    background-color: whitesmoke;
+    font-size: 22px;
+    text-align: left;
+    font-weight: bold;
+    font-family: monospace;
+    letter-spacing: normal;
+}
+h1 {
+    color: orangered;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 20px;
+}
+ul {
+    color: turquoise;
+    font-size: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2px;
+}
+li {
+    text-align: center;
+  }
+a {
+    color: gray;
+}
+img {
+    height: auto;
+    width: 500px;
+  }
